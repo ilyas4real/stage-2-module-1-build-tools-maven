@@ -10,9 +10,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId> org.test</groupId>
-    <artifactId> utils-1.3.5.jar</artifactId>
-    <version> 1.0-SNAPSHOT</version>
+    <groupId> com.epam </groupId>
+    <artifactId> utils </artifactId>
+    <version> 1.3.5</version>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
